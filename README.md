@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently a research assistant at Manipal Institute of Technology working on retinal vessel reconstructions.<br>I'm very interested in deep learning, machine learning and image processing.
+I'm currently a research assistant at Manipal Institute of Technology working on retinal vessel reconstructions.<br>I'm very interested in deep learning, machine learning and image processing. <br> I'm also interested in data science and currently learning it by myself.
 
 
 ## 🌐 Socials:
